@@ -1,6 +1,8 @@
+I like to learn & train neural network, also intersted on dl framewokrs. 
+ <!--
 ## Hi there 👋
 
-<!--
+
 **sytandas/sytandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
