@@ -1,4 +1,4 @@
-I like to learn & train neural network, also intersted on dl framewokrs. 
+I like learning & training neural networks, and interested in dl frameworks.
  <!--
 ## Hi there 👋
 
