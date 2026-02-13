@@ -1,4 +1,4 @@
-Interested in neural networks, DL frameworks, quantified-self tech using AI/ML.
+Deep dive in DL and try to wrap my head around mathematical side of computation.
  <!--
 ## Hi there 👋
 
